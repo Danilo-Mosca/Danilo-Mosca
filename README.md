@@ -32,11 +32,49 @@ Sono una persona curiosa, orientata al miglioramento continuo e sempre pronta a 
 
 ## 🚀 Progetti in evidenza
 
-<ul>
-  <li><strong>Bool B&B</strong> – Ecommerce WooCommerce con focus su UX e gestione prodotti</li>
-  <li><strong>Laravel CRUD</strong> – Applicazione completa con validazione e architettura MVC</li>
-  <li><strong>React SPA</strong> – Applicazioni modulari, performanti e responsive</li>
-</ul>
+<details>
+  <summary><strong>Bool B&B – Dettagli progetto:</strong></summary>
+  <p>
+    Web App full-stack per la gestione di annunci immobiliari in affitto, con architettura REST e interfaccia SPA in React. 
+    Il backend in Node.js/Express gestisce immobili, recensioni e like tramite API REST, con validazione server-side. 
+    Funzionalità principali: ricerca avanzata con filtri, pagine di dettaglio con geolocalizzazione OpenStreetMap, interazioni utente (recensioni e like), invio email tramite EmailJS. 
+    Completamente responsive, ottimizzata per UX e performance.
+    <br>
+    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT, REACT, NODE.JS
+  </p>
+</details>
+
+<details>
+  <summary><strong>Laravel Movies – Dettagli progetto:</strong></summary>
+  <p>
+    Web App full-stack a tema cinema con separazione tra area admin e interfaccia pubblica. 
+    Backend in Laravel con autenticazione Laravel Breeze e gestione CRUD per i film. 
+    Frontend in React per utenti non autenticati, con catalogo film, ricerca, filtri e pagine di dettaglio. 
+Progettata per ruoli distinti, navigazione intuitiva e presentazione chiara dei contenuti.
+    <br>
+    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT, PHP, REACT, LARAVEL
+  </p>
+</details>
+
+<details>
+  <summary><strong>Meteo Web App – Dettagli progetto:</strong></summary>
+  <p>
+    Web App frontend in JavaScript Vanilla per visualizzare le previsioni meteo in tempo reale. 
+    Integra l’API OpenWeatherMap e permette ricerca manuale per città o tramite geolocalizzazione. 
+    Interfaccia semplice, intuitiva e ottimizzata per aggiornamenti dinamici dei dati meteo.
+    <br>
+    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT VANILLA
+  </p>
+</details>
+
+<details>
+  <summary><strong>Portfolio Next.js di Danilo Mosca – Dettagli progetto:</strong></summary>
+  <p>
+    Un progetto portfolio personale realizzato con Next.js 16 (App Router), React 19, Tailwind CSS 4 e TypeScript. Questo repository contiene componenti, pagine e dati che mostrano progetti, competenze e un modulo di contatto funzionante.
+    <br>
+    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT, TYPESCRIPT, NEXT.JS
+  </p>
+</details>
 
 ---
 
@@ -72,12 +110,7 @@ Sono una persona curiosa, orientata al miglioramento continuo e sempre pronta a 
 
 ## 📊 GitHub Stats
 
-<!-- Grafico principale -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danilo-Mosca&show_icons=true&theme=radical" />
-</p>
-
- <p align="center">
   <!-- Stars e Followers -->
   <img src="https://img.shields.io/github/followers/Danilo-Mosca?style=social" />
   <img src="https://img.shields.io/github/stars/Danilo-Mosca?style=social" />
