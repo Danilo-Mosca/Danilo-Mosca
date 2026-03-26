@@ -33,7 +33,7 @@ Sono una persona curiosa, orientata al miglioramento continuo e sempre pronta a 
 ## 🚀 Progetti in evidenza
 
 <ul>
-  <li><strong>Avoja</strong> – Ecommerce WooCommerce con focus su UX e gestione prodotti</li>
+  <li><strong>Bool B&B</strong> – Ecommerce WooCommerce con focus su UX e gestione prodotti</li>
   <li><strong>Laravel CRUD</strong> – Applicazione completa con validazione e architettura MVC</li>
   <li><strong>React SPA</strong> – Applicazioni modulari, performanti e responsive</li>
 </ul>
@@ -72,29 +72,12 @@ Sono una persona curiosa, orientata al miglioramento continuo e sempre pronta a 
 
 ## 📊 GitHub Stats
 
+<!-- Grafico principale -->
 <p align="center">
-  <!-- Grafico principale -->
   <img src="https://github-readme-stats.vercel.app/api?username=Danilo-Mosca&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <!-- Top Languages con barre -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Mosca&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <!-- Lingue principali con icone -->
-  [![JavaScript](https://skillicons.dev/icons?i=js)] JavaScript
-  [![PHP](https://skillicons.dev/icons?i=php)] PHP
-  [![Java](https://skillicons.dev/icons?i=java)] Java
-  [![HTML](https://skillicons.dev/icons?i=html)] HTML
-  [![CSS](https://skillicons.dev/icons?i=css)] CSS
-  [![TypeScript](https://skillicons.dev/icons?i=typescript)] TypeScript
-  [![React](https://skillicons.dev/icons?i=react)] React
-  [![Laravel](https://skillicons.dev/icons?i=laravel)] Laravel
-</p>
-
-<p align="center">
+ <p align="center">
   <!-- Stars e Followers -->
   <img src="https://img.shields.io/github/followers/Danilo-Mosca?style=social" />
   <img src="https://img.shields.io/github/stars/Danilo-Mosca?style=social" />
