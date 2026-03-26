@@ -40,7 +40,7 @@ Sono una persona curiosa, orientata al miglioramento continuo e sempre pronta a 
     Funzionalità principali: ricerca avanzata con filtri, pagine di dettaglio con geolocalizzazione OpenStreetMap, interazioni utente (recensioni e like), invio email tramite EmailJS. 
     Completamente responsive, ottimizzata per UX e performance.
     <br>
-    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT, REACT, NODE.JS
+    <strong>Tecnologie:</strong> HTML, CSS, JAVASCRIPT, REACT, NODE.JS
   </p>
 </details>
 
@@ -52,7 +52,7 @@ Sono una persona curiosa, orientata al miglioramento continuo e sempre pronta a 
     Frontend in React per utenti non autenticati, con catalogo film, ricerca, filtri e pagine di dettaglio. 
 Progettata per ruoli distinti, navigazione intuitiva e presentazione chiara dei contenuti.
     <br>
-    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT, PHP, REACT, LARAVEL
+    <strong>Tecnologie:</strong> HTML, CSS, JAVASCRIPT, PHP, REACT, LARAVEL
   </p>
 </details>
 
@@ -63,7 +63,7 @@ Progettata per ruoli distinti, navigazione intuitiva e presentazione chiara dei 
     Integra l’API OpenWeatherMap e permette ricerca manuale per città o tramite geolocalizzazione. 
     Interfaccia semplice, intuitiva e ottimizzata per aggiornamenti dinamici dei dati meteo.
     <br>
-    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT VANILLA
+    <strong>Tecnologie:</strong> HTML, CSS, JAVASCRIPT VANILLA
   </p>
 </details>
 
@@ -72,7 +72,7 @@ Progettata per ruoli distinti, navigazione intuitiva e presentazione chiara dei 
   <p>
     Un progetto portfolio personale realizzato con Next.js 16 (App Router), React 19, Tailwind CSS 4 e TypeScript. Questo repository contiene componenti, pagine e dati che mostrano progetti, competenze e un modulo di contatto funzionante.
     <br>
-    <strong>Tecnologie:</strong> HTHM, CSS, JAVASCRIPT, TYPESCRIPT, NEXT.JS
+    <strong>Tecnologie:</strong> HTML, CSS, JAVASCRIPT, TYPESCRIPT, NEXT.JS
   </p>
 </details>
 
